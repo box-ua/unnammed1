@@ -1,0 +1,23 @@
+main img{
+    height: 200px;
+    width: 200px;
+}
+
+.icon{
+    height: 150px;
+    width: 200px;
+}
+
+body{
+    background-color: beige;
+    color: darkgoldenrod;
+    text-shadow: gold 2px 0 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+header h2{
+    text-align: center;
+}
